@@ -62,6 +62,12 @@ const links = {
       link: '/admin/transaction-report'
     }
   ],
+  Vesting: [
+    {
+      name: 'Create Vesting',
+      link: '/admin/create-vesting'
+    }
+  ],
   Other: [
     {
       name: 'Hero Carousel',
